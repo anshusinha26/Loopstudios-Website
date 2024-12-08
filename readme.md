@@ -1,4 +1,4 @@
-# Loopstudios Website
+# 🎮 Loopstudios Website
 
 An example website showcasing a gaming platform that provides an immersive virtual reality experience. The design emphasizes cutting-edge visuals and interactivity, reflecting the innovative nature of VR gaming.
 
